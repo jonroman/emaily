@@ -1,2 +1,3 @@
 # emaily
-Emaily
+This is a repository for a React tutorial.
+
